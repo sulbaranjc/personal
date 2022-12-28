@@ -11,3 +11,11 @@ margin-top: 80px;
 .principal{
   background-color: #1d252c ;
 }
+.txt-prin{
+  color: white ;
+  background-color: #1d252c!important;
+}
+
+h1 strong {
+  color: #026fff;
+}
