@@ -20,8 +20,7 @@ h1 strong {
   color: #026fff;
 }
 .portafolio {
-  background: #fafafa;
-  color: #026fff;
-
-  padding: 20px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
