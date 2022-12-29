@@ -9,7 +9,7 @@ margin-top: 80px;
   color: white;
 }
 .principal{
-  background-color: #1d252c ;
+  background-color:#1d252c ;
 }
 .txt-prin{
   color: white ;
@@ -23,4 +23,7 @@ h1 strong {
   color: white;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+.tarjeta{
+  width: 18rem;
 }
