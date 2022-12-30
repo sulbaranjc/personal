@@ -10265,4 +10265,34 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.texto-logo {
+  margin-top: 80px;
+}
+
+.cabecera {
+  color: white;
+}
+
+.principal {
+  background-color: #1d252c;
+}
+
+.txt-prin {
+  color: white;
+  background-color: #1d252c !important;
+}
+
+h1 strong, .h1 strong {
+  color: #026fff;
+}
+
+.portafolio {
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.tarjeta {
+  width: 18rem;
 }/*# sourceMappingURL=estilos.css.map */
